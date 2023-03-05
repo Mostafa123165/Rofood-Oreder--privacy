@@ -21,7 +21,7 @@
 
 
 
-privacy policy
+###privacy policy
 Positional policy and terms and conditions are considered topical on the job site.
 User information privacy:
 The privacy of your personal information is important to us, as we at Rfoud dedicate your personal information and confidentiality, and accordingly we dedicate information to protect your information and provide you with the highest standards, and this policy describes what information refers to its collection and the way to deal with it and protect it
